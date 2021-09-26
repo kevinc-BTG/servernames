@@ -1,0 +1,53 @@
+{
+  "name": "Shades of Black",
+  "count": 10,
+  "description": "Different shades of black or near black",
+  "author": "Ben Dalby",
+  "created": "2021-09-26",
+  "sponsor": {
+    "name": "Ben Dalby Music",
+    "link": "https://youtube.com/bendalby82"
+  },
+  "names": [
+    {
+      "id": 1,
+      "name": "ebony"
+    },
+    {
+      "id": 2,
+      "name": "sable"
+    },
+    {
+      "id": 3,
+      "name": "onyx"
+    },
+    {
+      "id": 4,
+      "name": "jet"
+    },
+    {
+      "id": 5,
+      "name": "pitch"
+    },
+    {
+      "id": 6,
+      "name": "charcoal"
+    },
+    {
+      "id": 7,
+      "name": "raven"
+    },
+    {
+      "id": 8,
+      "name": "soot"
+    },
+    {
+      "id": 9,
+      "name": "obsidian"
+    },
+    {
+      "id": 10,
+      "name": "slate"
+    }
+  ]
+}
