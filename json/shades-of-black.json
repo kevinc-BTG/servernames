@@ -88,6 +88,19 @@
     ,{
       "id": 20,
       "name": "granite"
-    }     
+    }   
+    ,{
+      "id": 21,
+      "name": "ink"
+    }       
+    ,{
+      "id": 22,
+      "name": "oil"
+    }   
+    ,{
+      "id": 23,
+      "name": "spider"
+    }       
   ]
+  
 }
