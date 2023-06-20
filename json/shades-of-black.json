@@ -101,6 +101,30 @@
       "id": 23,
       "name": "spider"
     }       
+    ,{
+      "id": 24,
+      "name": "ultra"
+    }       
+    ,{
+      "id": 25,
+      "name": "charleston"
+    }       
+    ,{
+      "id": 26,
+      "name": "iridium"
+    }       
+    ,{
+      "id": 27,
+      "name": "americano"
+    }       
+    ,{
+      "id": 28,
+      "name": "blackberry"
+    }       
+    ,{
+      "id": 29,
+      "name": "lamp"
+    }     
   ]
   
 }
