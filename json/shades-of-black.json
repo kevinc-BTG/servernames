@@ -125,6 +125,18 @@
       "id": 29,
       "name": "lamp"
     }     
+    ,{
+      "id": 30,
+      "name": "vampire"
+    } 
+    ,{
+      "id": 31,
+      "name": "cool"
+    } 
+    ,{
+      "id": 32,
+      "name": "panda"
+    }     
   ]
   
 }
