@@ -126,5 +126,35 @@
       "name": "lamp"
     }     
   ]
-  
+ ,
+  "names_but_more_brown": [
+    {
+      "id": 1,
+      "name": "Taupe"
+    },
+    {
+      "id": 2,
+      "name": "Americano"
+    },
+    {
+      "id": 3,
+      "name": "Zinnwaldite"
+    },
+    {
+      "id": 4,
+      "name": "Sienna"
+    },
+    {
+      "id": 5,
+      "name": "Chocolate"
+    },
+    {
+      "id": 6,
+      "name": "Noir"
+    },
+    {
+      "id": 7,
+      "name": "Walnut"
+    }
+  ]
 }
